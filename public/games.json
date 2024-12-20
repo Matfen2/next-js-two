@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "pict": "/theLastOfUsPart2.png",
+    "background": "/theLastOfUsPart2Background.png",
+    "buy": "https://www.playstation.com/fr-fr/games/the-last-of-us-part-ii/"
+  },
+  {
+    "id": 2,
+    "pict": "/astroBot.png",
+    "background": "/astroBotWallpaper.png",
+    "buy": "https://www.playstation.com/fr-fr/games/astro-bot/"
+  },
+  {
+    "id": 3,
+    "pict": "/stellarBlade.png",
+    "background": "/stellarBladeWallpaper.png",
+    "buy": "https://www.playstation.com/fr-fr/games/stellar-blade/"
+  },
+  {
+    "id": 4,
+    "pict": "/ratchet&ClankRiftApart.png",
+    "background": "/ratchet&ClankRiftApartWallpaper.png",
+    "buy": "https://www.playstation.com/fr-fr/games/ratchet-and-clank-rift-apart/"
+  },
+  {
+    "id": 5,
+    "pict": "/uncharted.png",
+    "background": "/unchartedWallpaper.png",
+    "buy": "https://www.playstation.com/fr-fr/games/uncharted-legacy-of-thieves-collection/"
+  },
+  {
+    "id": 6,
+    "pict": "/untilDawn.png",
+    "background": "/untilDawnWallpaper.png",
+    "buy": "https://www.playstation.com/fr-fr/games/until-dawn/"
+  }
+]
